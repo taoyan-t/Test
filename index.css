@@ -1,0 +1,9 @@
+.mainapp {
+  margin: 0 auto;
+}
+
+#subapp-container {
+  flex-grow: 1;
+  position: relative;
+  margin: 0 40px;
+}
